@@ -13,22 +13,22 @@ def led(total):
         led_1.write(0)
         led_2.write(0)
         led_3.write(0)
-        led_4.write(0)
+       
     if total==1:
         led_1.write(0)
         led_2.write(1)
         led_3.write(0)
-        led_4.write(0)
+      
     if total==2:
         led_1.write(0)
         led_2.write(0)
         led_3.write(1)
-        led_4.write(0)
+       
     if total==3:
         led_1.write(0)
         led_2.write(0)
         led_3.write(0)
-        led_4.write(1)
+       
     
         
         
