@@ -1,4 +1,4 @@
-###  Traffic-Light-Automation
+###  Healthcare Support System
 
 The idea of the project is to automate traffic light system using **Mediapipe,OpenCV and Arduino.** We have taken the idea of Handtracking using the Mediapipe Library to count the finger's to light up the LED's. 
 
